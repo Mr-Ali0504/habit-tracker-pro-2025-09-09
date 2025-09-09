@@ -13,7 +13,7 @@ HTML5 CSS3 JavaScript Chart.js LocalStorage
 - [x] HTML structure
 - [x] CSS styling
 - [x] JavaScript functionality
-- [ ] Additional features
+- [x] Additional features
 - [ ] Documentation
 - [ ] Final optimizations
 
